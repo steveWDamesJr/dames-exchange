@@ -1,0 +1,2 @@
+# dames-exchange
+This SPA, ‘Best ever Metrics mobile/desktop WebApp’ for cryptocurrency provides: numeric data about Global Stats for Cryptocurrencies, information about individual Cryptocurrencies and a filterable list of Cryptocurrencies that leads to these items’ details. Also view news about about current Cryptocurrencies. Built with REACT | CoinLore Cryptocurrency API | Bing News Search API | JavaScript | CSS
