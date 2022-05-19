@@ -1,9 +1,10 @@
 import React from 'react';
+import { Spin } from 'antd';
 
-function Loader() {
-  return (
-    <div>Loader</div>
-  );
-}
+const Loader = () => (
+  <div className="loader">
+    <Spin tip="Dames Exchange Loading..." />
+  </div>
+);
 
 export default Loader;
