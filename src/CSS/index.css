@@ -1,0 +1,16 @@
+:root {
+  --text-primary: #000;
+  --bg-primary: #fff;
+  --bg-secondary: #f9f9f9;
+  --pink: #0071bd;
+  --light-blue: #e6f7ff;
+  --border: #d9d9d9;
+}
+
+*,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Lato, sans-serif;
+}
