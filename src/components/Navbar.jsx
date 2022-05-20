@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import {
-  Button, Menu, Typography,
+  Button, Typography,
 } from 'antd';
 import { Link } from 'react-router-dom';
 import {
@@ -37,14 +37,14 @@ const Navbar = () => {
         <Button className="menu-control-container" onClick={() => setActiveMenu(!activeMenu)}><MenuOutlined /></Button>
       </div>
       {activeMenu && (
-      <Menu className="menu-theme" theme="dark">
-        <Menu.Item key="1" icon={<HomeOutlined />}>
+      <ul className="menu-theme" theme="dark">
+        <li key="1" icon={<HomeOutlined />}>
           <Link to="/">Home</Link>
-        </Menu.Item>
-        <Menu.Item key="2" icon={<FundOutlined />}>
+        </li>
+        <li key="2" icon={<FundOutlined />}>
           <Link to="/cryptocurrencies">Cryptocurrencies</Link>
-        </Menu.Item>
-      </Menu>
+        </li>
+      </ul>
       )}
     </div>
   );
