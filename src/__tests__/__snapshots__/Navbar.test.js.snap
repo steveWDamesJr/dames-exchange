@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="nav-container"
+>
+  <div
+    className="logo-container"
+  >
+    <div
+      className="logo-dollar"
+      size="large"
+    />
+    <div>
+      <a
+        to="/"
+      >
+        Welcome Cryptonians!
+      </a>
+    </div>
+    <button
+      type="button"
+    >
+      Click me
+    </button>
+  </div>
+</div>
+`;

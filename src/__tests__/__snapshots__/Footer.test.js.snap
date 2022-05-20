@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="footer"
+>
+  <div
+    className="copyright-info"
+    level={5}
+    style={
+      Object {
+        "color": "white",
+        "textAlign": "center",
+      }
+    }
+  >
+    Copyright © 2022 -
+     
+    <br />
+    <a
+      aria-current="page"
+      className="active"
+      href="/"
+      onClick={[Function]}
+    >
+      Dames Exchange Inc.
+    </a>
+    <br />
+    All Rights Reserved.
+  </div>
+  <br />
+  <a
+    aria-current="page"
+    className="active"
+    href="/"
+    onClick={[Function]}
+  >
+    Home
+  </a>
+  <a
+    className=""
+    href="/cryptocurrencies"
+    onClick={[Function]}
+  >
+    Cryptocurrencies
+  </a>
+</div>
+`;

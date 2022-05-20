@@ -10,8 +10,12 @@ REACT README
 ![Details View](https://raw.githubusercontent.com/steveWDamesJr/dames-exchange/develop/src/images/D-ex-details-mobile2.png)
 ![Desktop View](https://raw.githubusercontent.com/steveWDamesJr/dames-exchange/develop/src/images/D-ex-desktop.png)
 
-## Demo
-[Netlify Live Demo Link]()
+## Project Walkthrough Video
+[Peak inside](https://www.loom.com/share/f18b8573d7de423fbae11fa8dd7528f6)
+
+
+## Demo Link
+[Netlify Live Demo Link](https://6287b789736c111b1a52e806--thriving-kringle-0f428a.netlify.app/)
 
 
 ## Built With
